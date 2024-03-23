@@ -1,6 +1,9 @@
 Box Processor Project
+
  Traditional & Cloud-Native Approaches
+ 
 Traditional Approach: 
+
 This is current implementation.
 Key Points:
 Console Application: The Box Processor project is implemented as a console application using .NET Framework 6.

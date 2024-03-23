@@ -1,4 +1,5 @@
-Box Processor Project
+Box Processor Project:
+
 The Box Processor project is a console application built on .NET Framework 6.
 
 Key Points:
